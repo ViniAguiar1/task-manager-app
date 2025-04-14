@@ -66,7 +66,7 @@ components/
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/seu-usuario/sistema-gerenciamento-tarefas.git](https://github.com/ViniAguiar1/task-manager-app.git)
+git clone https://github.com/ViniAguiar1/task-manager-app.git
 ```
 
 2. Instale as dependências:
