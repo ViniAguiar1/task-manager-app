@@ -66,12 +66,12 @@ components/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/sistema-gerenciamento-tarefas.git
+git clone [https://github.com/seu-usuario/sistema-gerenciamento-tarefas.git](https://github.com/ViniAguiar1/task-manager-app.git)
 ```
 
 2. Instale as dependências:
 ```bash
-cd sistema-gerenciamento-tarefas
+cd task-manager-app
 npm install
 ```
 
@@ -169,8 +169,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Suporte
 
-Para suporte, envie um email para suporte@seudominio.com ou abra uma issue no GitHub.
+Para suporte, envie um email para vinicius.aguiar1@icloud.com ou abra uma issue no GitHub.
 
 ---
 
-Desenvolvido com 💚 pela sua equipe
+Desenvolvido por Vinicius Aguiar.
